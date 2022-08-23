@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const categories = [
     {
       name: "commercial",
