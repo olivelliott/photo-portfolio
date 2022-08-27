@@ -14,7 +14,7 @@ exports[`Nav component matches snapshot DOM node structure 1`] = `
           aria-label="camera"
           role="img"
         >
-          📸
+           📸 
         </span>
          Oh Snap!
       </a>
@@ -36,34 +36,6 @@ exports[`Nav component matches snapshot DOM node structure 1`] = `
         <li>
           <span>
             Contact
-          </span>
-        </li>
-        <li
-          class="mx-1"
-        >
-          <span>
-            commercial
-          </span>
-        </li>
-        <li
-          class="mx-1"
-        >
-          <span>
-            portraits
-          </span>
-        </li>
-        <li
-          class="mx-1"
-        >
-          <span>
-            food
-          </span>
-        </li>
-        <li
-          class="mx-1"
-        >
-          <span>
-            landscape
           </span>
         </li>
       </ul>
